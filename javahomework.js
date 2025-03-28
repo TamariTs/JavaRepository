@@ -37,3 +37,4 @@
 
 //let phones=["Iphone", "Samsung", "Pixel", "Huawei", "Xiaomi"]
 //{console.log (phones[0],phones[1],phones[2],phones[3],phones[4])}
+//8.დაბეჭდეთ phones მასივის ბოლო პირველი და ბოლო ელემენტი ( ცალ-ცალკე console.log ეგში)
