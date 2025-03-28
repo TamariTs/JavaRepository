@@ -27,6 +27,18 @@
 //NickName:"Rise and shine, Tamari",
 //}
 //console.log (student.NickName)
+//გამოაცხადეთ ცვლადი bonus და salary ცვლადები, salary -ს მიანიჭეთ სასურველი რიცხვითი მნიშვნელობა, 
+//დაწერეთ თუ ხელფასი არის 2000 ლარი ან მეტი მაშინ ბონუსი არის 0, თუ ხელფასი 2000 ze ნაკლებია მაშინ ბონუსი არის ხელფასის 10%.
+ //დაბეჭდეთ ბონუსი (ჯერ bonus ცვლადს უნდა მიანიჭოთ შესაბამისი მნიშვნელობა და შემდეგ დაბეჭდოთ bonus)
+let salary=2000, bonus
+if (salary>=2000) bonus=0
+else if (salary<2000) bonus=salary*0.1
+console.log (bonus)
+
+
+
+
+
 
 //6.გამოაცხადეთ ცვლადი a, b და c. სადაც a = 23, b=a-ნახევარი, c= a-ს და b-ს ჯამი. 
 // დაბეჭდეთ c.
@@ -38,3 +50,4 @@
 //let phones=["Iphone", "Samsung", "Pixel", "Huawei", "Xiaomi"]
 //{console.log (phones[0],phones[1],phones[2],phones[3],phones[4])}
 //8.დაბეჭდეთ phones მასივის ბოლო პირველი და ბოლო ელემენტი ( ცალ-ცალკე console.log ეგში)
+jhjh
