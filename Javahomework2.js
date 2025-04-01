@@ -6,6 +6,10 @@
    // {console.log(i)}
 
 // 3. დაბეჭდეთ 3 დან 8 მდე რიცხვების ნამრავლი
+//let product=1
+ //for (let i=3; i<8; i++) (product *=i)
+ //console.log (product)
+
  
 // 4. Გამოაცხადეთ ობიექტი person რომელსაც აქვს firstName, lastName, age
 //  და დაბეჭდეთ person-სრული სახელი ( სახელი და გვარი)
@@ -52,6 +56,9 @@
 
 
  //8.დაბეჭდეთ 1 დან 34 მდე რიცხვების ჯამი
+// let sum=0
+// for (let i=1; i<34; i++) {sum += i}
+//  console.log (sum)
 
 
 
