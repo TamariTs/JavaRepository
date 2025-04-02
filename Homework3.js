@@ -1,15 +1,32 @@
 // 1. დაწერეთ ფუნქცია რომელსაც გადასცემ ორ რიცხვს (m,n) და დააბრუნებს რომელიც მეტია იმ რიცხვს , 
 // თუ რიცხვები ტოლია დააბრუნებს 0 -ს
 
+// function numbers(m,n){
+// if (m>n) return m
+// else if (m==n) return 0
+// else return n}
+//  console.log (numbers(7,10))
+
 
 // 2. დაწერეთ ფუნქცია რომელსაც გადასცემთ ორ ცვლადს(რიცხვს), დააბრუნეთ რიცხვების ჯამი
-
+// function sumofnumbers(a,b) {
+//     return a+b
+// }
+// console.log(sumofnumbers(7,1))
 
 // 3. დაწერეთ ფუნქცია რომელიც დააბეჭდავს თქვენ სახელს და გვარს ( ფუნქციას არ აქვს პარამეტრი)
+//  function fullname () 
+// { return "Tamari"+" "+"Tsikarishvili"
+// } 
+// console.log (fullname ())
 
 
 // 4. დაწერეთ ფუნქცია ორი პარამეტრით : firstname და lastname დააბრუნეთ სრული სახელი და დაბეჭდეთ
 //  ( ფუნქცია აბრუნებს სრულ სახელს და ფუნქციის გარეთ ბეჭდავთ)
+// function fullname (firstname, lastname) {
+//     return firstname+" "+lastname
+// }
+// console.log (fullname ("Tamari", "Tsikarishvili"))
 
 
 // 5. Დაწერეთ ფუნქცია რომელსაც გადასცემთ ერთ რიცხვს (n) და ფუნქციამ უნდა დააბრუნოს 1 დან ამ რიცხვამდე  (n-მდე) 
