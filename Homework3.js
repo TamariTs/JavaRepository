@@ -97,3 +97,4 @@
 //         return this.firstName + " " + this.age
 //     }}
 // console.log (student.fullName ())
+//
